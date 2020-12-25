@@ -48,7 +48,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = zsh git_setup.sh
+	email = metin.lamby@outlook.com
 	name = Metin Lamby
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
